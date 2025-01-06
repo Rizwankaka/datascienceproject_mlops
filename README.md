@@ -1,14 +1,14 @@
-# # End to End Data Science Project 
+# # End to End Data Science Project
 
-### Workflows--ML Pipeline 
+### Workflows--ML Pipeline
 
 1. Data Ingestion
 2. Data Validation
-3. Data Transformation
+3. Data Transformation -- Feature Engineering, Data Preprocessing
 4. Model Trainer
 5. Model Evaluation
 
-## Workflows 
+## Workflows
 
 1. Update config.yaml
 2. Update schema.yaml
